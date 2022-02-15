@@ -50,7 +50,7 @@ var asinh = require( '@stdlib/math-base-special-asinh' );
 
 #### asinh( x )
 
-Computes the [hyperbolic arcsine][hyperbolic-arcsine] of a `number` (in radians).
+Computes the [hyperbolic arcsine][hyperbolic-arcsine] of `x`.
 
 ```javascript
 var v = asinh( 0.0 );
@@ -143,7 +143,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
