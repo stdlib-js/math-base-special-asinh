@@ -1,0 +1,4 @@
+// Copyright (c) 2022 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
+/// <reference types="./index.d.ts" />
+import s from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-infinite@esm/index.mjs";import t from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-nan@esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1p@esm/index.mjs";import i from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrt@esm/index.mjs";import m from"https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-two@esm/index.mjs";import n from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ln@esm/index.mjs";var r=s,d=t,a=e,l=i,j=m,o=n;var h=function(s){var t,e,i;return d(s)||r(s)?s:(s<0&&(s=-s,t=!0),i=s<3.725290298461914e-9?s:s>268435456?o(s)+j:s>2?o(2*s+1/(l(s*s+1)+s)):a(s+(e=s*s)/(1+l(1+e))),t?-i:i)};export{h as default};
+//# sourceMappingURL=index.mjs.map
