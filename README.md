@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import asinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asinh@esm/index.mjs';
+import asinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asinh@v0.2.2-esm/index.mjs';
 ```
 
 #### asinh( x )
@@ -89,7 +89,7 @@ v = asinh( Infinity );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import asinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asinh@esm/index.mjs';
+import asinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asinh@v0.2.2-esm/index.mjs';
 
 var x = linspace( -5.0, 5.0, 100 );
 
