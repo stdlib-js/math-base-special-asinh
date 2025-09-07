@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-21)
+## Unreleased (2025-09-07)
 
 <section class="reverts">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`23bddcf`](https://github.com/stdlib-js/stdlib/commit/23bddcf5ebe5289a03d5590b58fa4a0f0c93cab7) - **chore:** add structured package data for packages in `math/base/special` [(#8037)](https://github.com/stdlib-js/stdlib/pull/8037) _(by Gunj Joshi, Athan Reines)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`2decebf`](https://github.com/stdlib-js/stdlib/commit/2decebfef3381b37b7c84ebe6c4e35792d685e1e) - **chore:** update package meta data [(#6447)](https://github.com/stdlib-js/stdlib/pull/6447) _(by stdlib-bot)_
@@ -46,9 +48,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gunj Joshi
 -   Karan Anand
 -   Philipp Burckhardt
 
