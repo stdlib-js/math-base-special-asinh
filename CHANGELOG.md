@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-14)
+## Unreleased (2026-09-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`95fd0e2`](https://github.com/stdlib-js/stdlib/commit/95fd0e2f65dbfbc1ae9c02276382bc6624046aaf) - **test:** migrate `math/base/special/asinh` to ULP-based testing [(#15363)](https://github.com/stdlib-js/stdlib/pull/15363) _(by Divyanshu)_
 -   [`c568729`](https://github.com/stdlib-js/stdlib/commit/c568729af2a4908e564647f15cadccc8ad62f59b) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`e67a5aa`](https://github.com/stdlib-js/stdlib/commit/e67a5aad659d8f6623e4ab8ac94687a8586ea83a) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`85f4853`](https://github.com/stdlib-js/stdlib/commit/85f48534ef6908bbcd982d48f1c5fbea3fb7aafd) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
@@ -30,8 +31,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Divyanshu
 -   Karan Anand
 -   Mandeep2333
 -   Philipp Burckhardt
